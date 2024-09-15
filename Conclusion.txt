@@ -1,0 +1,27 @@
+Key Insights from Customer Churn Analysis:
+
+Contract:
+
+		88.5% of churned customers were on month-to-month contracts.
+		Month-to-month customers are more likely to churn due to dissatisfaction or competitive offers.
+	Recommendation: Offer loyalty programs, discounts for long-term contracts, and enhanced customer support.
+
+Gender:
+
+		Churn is nearly equally split: 960 males and 969 females.
+		Conclusion: Gender does not significantly affect churn.
+	Focus: Address other factors like satisfaction, service quality, and pricing.
+
+Payment Method:
+
+		57.3% of churned customers used electronic checks.
+	Recommendation: Investigate issues like ease of use, fees, or preferences to reduce churn among electronic check users.
+
+Tech Support:
+
+		77.3% of churned customers never used tech support.
+	Recommendation: Encourage tech support usage through proactive outreach and education to improve customer retention.
+
+
+
+
