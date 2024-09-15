@@ -1,0 +1,25 @@
+Summary in Points:
+
+	Dataset Source:
+
+		Acquired the customer churn dataset from Kaggle.(https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data)
+
+	Data Cleaning:
+
+		Performed minor data cleaning using Python in Jupyter Notebook (since the dataset was mostly clean).
+		(chrun .ipynb)
+
+	Data Analysis:
+
+		Used Tableau to visualize the data and extract insights.
+		(Book1.twb)
+
+	Findings:
+
+		Contract type, payment method, and tech support engagement are key factors influencing churn.
+		Gender does not have a significant impact on churn.
+
+	Conclusions:
+
+
+Retention strategies can be focused on factors like contract type, payment method, and encouraging tech support usage to reduce churn.
